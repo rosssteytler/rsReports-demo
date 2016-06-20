@@ -1,4 +1,4 @@
 # rsReports-demo
-Source code for my blog post on PDF Reports in Web API 2 with SSRS
+Source code for my blog post on PDF Reporting with Web API 2 (compatible with Azure)
 
-[PDF Reporting with Web API 2 on Azure](http://rosssteytler.com)
+[PDF Reporting with Web API 2 (compatible with Azure)](http://rosssteytler.com/pdf-reporting-with-web-api-2-compatible-with-azure)
